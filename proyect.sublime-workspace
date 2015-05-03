@@ -1,0 +1,1847 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cutnod",
+				"cutNodeParent"
+			],
+			[
+				"cop",
+				"copyOfRange"
+			],
+			[
+				"printl",
+				"println()	void"
+			],
+			[
+				"new",
+				"newcommand"
+			],
+			[
+				"dsl_req",
+				"dsl_req:operadores logicos"
+			],
+			[
+				"relaci",
+				"table:relacion propiedad-constructo"
+			],
+			[
+				"req",
+				"req:obtener_metricas"
+			],
+			[
+				"metd",
+				"metodosComplejos"
+			],
+			[
+				"i",
+				"fig:iplasma_arq"
+			],
+			[
+				"s",
+				"software"
+			],
+			[
+				"tex",
+				"textregistered"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"newenv",
+				"newenvcommand"
+			],
+			[
+				"diag_",
+				"fig:diag_trabajo_de_negocio"
+			],
+			[
+				"the",
+				"Carr:2012:Crisis: The Crisis in Higher Education"
+			],
+			[
+				"te",
+				"texttt"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"div",
+				"div>  (element)"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"C",
+				"Chrome10"
+			],
+			[
+				"tot",
+				"totalSeconds"
+			],
+			[
+				"FIN",
+				"FINISHED  (variable)"
+			],
+			[
+				"app",
+				"appState"
+			],
+			[
+				"enu",
+				"enum	Enumerate"
+			],
+			[
+				"rando",
+				"random_bag_e1334"
+			],
+			[
+				"coun",
+				"count_array"
+			],
+			[
+				"hello",
+				"helloworld_style"
+			],
+			[
+				"next",
+				"nextDouble()	double"
+			],
+			[
+				"Ajax",
+				"AjaxWidget"
+			],
+			[
+				"Bind",
+				"BindedLayoutWidget"
+			],
+			[
+				"Hell",
+				"HelloWorldWidget"
+			],
+			[
+				"name",
+				"nameSpan"
+			],
+			[
+				"He",
+				"HelloWorldUiBinder"
+			],
+			[
+				"ch",
+				"changeWidget"
+			],
+			[
+				"add",
+				"addPanel"
+			],
+			[
+				"RE",
+				"REMOVE_BTN_COLUMN"
+			],
+			[
+				"PR",
+				"PRICE_COLUMN"
+			],
+			[
+				"stocks",
+				"stocksFlexTable"
+			],
+			[
+				"sto",
+				"stocksFlexTable"
+			],
+			[
+				"last",
+				"lastUpdatedLabel"
+			],
+			[
+				"addS",
+				"addStockButton"
+			],
+			[
+				"gets",
+				"getSymbolText"
+			],
+			[
+				"changeP",
+				"changePercentText"
+			],
+			[
+				"stock",
+				"stocksFlexTable"
+			],
+			[
+				"Stock",
+				"StockPrice"
+			],
+			[
+				"pr",
+				"pr	private"
+			],
+			[
+				"pri",
+				"prices"
+			],
+			[
+				"MAX",
+				"MAX_PRICE_CHANGE"
+			],
+			[
+				"refre",
+				"refreshWatchList"
+			],
+			[
+				"remo",
+				"removeStockButton"
+			],
+			[
+				"remov",
+				"removedIdx"
+			],
+			[
+				"stoc",
+				"stocks"
+			],
+			[
+				"Cl",
+				"ClickHandler"
+			],
+			[
+				"sy",
+				"symbol"
+			],
+			[
+				"get",
+				"getSymbolText"
+			],
+			[
+				"Click",
+				"ClickEvent"
+			],
+			[
+				"main",
+				"mainPanel"
+			],
+			[
+				"createSer",
+				"http.createServer(requestListener);"
+			],
+			[
+				"sectionQ",
+				"sectionQuestionIds"
+			],
+			[
+				"asse",
+				"assessmentDefinition"
+			],
+			[
+				"enviro",
+				"environment"
+			],
+			[
+				"Design",
+				" Design Patterns: Elements of Reusable Object-Oriented Software"
+			],
+			[
+				"obje",
+				" Object-oriented Design Heuristics"
+			],
+			[
+				"Desig",
+				" Design Patterns: Elements of Reusable Object-Oriented Software"
+			],
+			[
+				"ProcesoEj",
+				"ProcesoEjecutando"
+			],
+			[
+				"contr",
+				"controlFinal"
+			],
+			[
+				"tr",
+				"throw"
+			],
+			[
+				"Pro",
+				"ProcesoEjecutando"
+			],
+			[
+				"proces",
+				"procesoInterno"
+			],
+			[
+				"ProcesoF",
+				"ProcesoFinalizado"
+			],
+			[
+				"co",
+				"code:estados_procesos_mejor"
+			],
+			[
+				"E",
+				"EstadoDeProceso"
+			],
+			[
+				"sec",
+				"sec:smells_oo"
+			],
+			[
+				"marco",
+				"marco_teorico"
+			],
+			[
+				"Em",
+				"EmpleadoAntiguo"
+			],
+			[
+				"Empl",
+				"EmpleadoNuevo"
+			],
+			[
+				"Emple",
+				"EmpleadoAntiguo"
+			],
+			[
+				"par",
+				"part:metodo"
+			],
+			[
+				"chap",
+				"chap:implement_dsl"
+			],
+			[
+				"part",
+				"part:resultados"
+			],
+			[
+				"pa",
+				"part:metodo"
+			],
+			[
+				"text",
+				"texttt"
+			],
+			[
+				"tagN",
+				"tagName"
+			],
+			[
+				"people",
+				"peopleView"
+			],
+			[
+				"peo",
+				"peopleView"
+			],
+			[
+				"h",
+				"HR	Tag"
+			],
+			[
+				"numbers_no",
+				"numbers_no46"
+			],
+			[
+				"prit",
+				"print_sorted_numbers"
+			],
+			[
+				"numbers_",
+				"numbers_no46"
+			],
+			[
+				"getA",
+				"getArea"
+			],
+			[
+				"desc",
+				"descOrderPieces"
+			],
+			[
+				"getAre",
+				"getAreaOfLast"
+			],
+			[
+				"des",
+				"descOrderPieces"
+			],
+			[
+				"pieces",
+				"piecesToFit"
+			],
+			[
+				"PIece",
+				"PieceList"
+			],
+			[
+				"call",
+				"call_block"
+			],
+			[
+				"bloc",
+				"block_given"
+			],
+			[
+				"sub",
+				"sub_matrix"
+			],
+			[
+				"ba",
+				"basic_strassen"
+			],
+			[
+				"c_",
+				"c_str"
+			],
+			[
+				"arr",
+				"arr2_elements"
+			],
+			[
+				"arr1",
+				"arr1_elements"
+			],
+			[
+				"b",
+				"binary_search"
+			],
+			[
+				"g",
+				"get_mediana_helper"
+			],
+			[
+				"ma",
+				"max_discs"
+			],
+			[
+				"ca",
+				"calc_distance"
+			],
+			[
+				"com",
+				"complexity_cost"
+			],
+			[
+				"Ed",
+				"EditDistanceCalculator"
+			],
+			[
+				"edit_",
+				"edit_distance"
+			],
+			[
+				"dst_",
+				"dst_idx"
+			],
+			[
+				"file",
+				"file_base_name"
+			],
+			[
+				"fil",
+				"file_base_name"
+			],
+			[
+				"logi",
+				"logical_instruction"
+			],
+			[
+				"qu",
+				"quantifier_range"
+			],
+			[
+				"quantifi",
+				"quantifier_single"
+			],
+			[
+				"smells",
+				"smells_to_api"
+			],
+			[
+				"sens",
+				"sense_param"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"Star",
+				"StartInfo	ProcessStartInfo"
+			],
+			[
+				"BUILD",
+				"BUILD_AUTOPARVEC"
+			],
+			[
+				"G",
+				"GRID_SIZE"
+			],
+			[
+				"BUI",
+				"BUILD_OPENMP"
+			],
+			[
+				"open",
+				"openmp_pi"
+			],
+			[
+				"cm",
+				"cmal	cudaMalloc"
+			],
+			[
+				"inter",
+				"intervalo_count"
+			],
+			[
+				"tre",
+				"trescientos_mil_millones_l"
+			],
+			[
+				"W",
+				"WIDTHA"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "syn java",
+		"selected_items":
+		[
+			[
+				"syn java",
+				"Set Syntax: Java"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"spell",
+				"Google Spell Check"
+			],
+			[
+				"list package",
+				"Package Control: List Packages"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"package: list",
+				"Package Control: List Packages"
+			],
+			[
+				"dict",
+				"Dictionaries: Set Language"
+			],
+			[
+				"syn text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syn ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syn tex",
+				"Set Syntax: TeX"
+			],
+			[
+				"syn ebnf",
+				"Set Syntax: EBNF"
+			],
+			[
+				"ebnf",
+				"Set Syntax: EBNF"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"jump",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"syn C#",
+				"Set Syntax: C#"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"syn ",
+				"Set Syntax: C#"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"latextools",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"latextoo",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"LatexTools",
+				"LaTeXTools: Toggle focus (PDF/editor)"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git:add",
+				"Git: Quick Add"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"italic",
+				"Snippet: Wrap selection in LaTeX command"
+			],
+			[
+				"tex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"jut",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"syn json",
+				"Set Syntax: JSON"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"view",
+				"View: Toggle Minimap"
+			],
+			[
+				"syn bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"disablep",
+				"Package Control: Disable Package"
+			],
+			[
+				"disablepac",
+				"Package Control: Disable Package"
+			],
+			[
+				"disablepa",
+				"Package Control: Disable Package"
+			],
+			[
+				"packagedis",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"panht",
+				"Pandoc: Convert a Pandoc file to HTML"
+			],
+			[
+				"markht",
+				"Markdown Preview: export HTML in Sublime Text"
+			],
+			[
+				"conert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"syn c#",
+				"Set Syntax: C#"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ine",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"syn javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"syn javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"idne",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"findk",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"findkey",
+				"FindKeyConflicts: Command Search"
+			],
+			[
+				"jaava",
+				"Java: Open Javadoc for Class Under Cursor"
+			],
+			[
+				"impo",
+				"Java: Import Class Under Cursor"
+			],
+			[
+				"astyle",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"impor",
+				"Java: Organize Imports"
+			],
+			[
+				"source",
+				"Java: Open Source"
+			],
+			[
+				"java:",
+				"Java: Open Source Under Cursor"
+			],
+			[
+				"import",
+				"Java: Import Class Under Cursor"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"synxml",
+				"Set Syntax: XML"
+			],
+			[
+				"syn xml",
+				"Set Syntax: XML"
+			],
+			[
+				"synht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"ind",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"veloc",
+				"Set Syntax: Velocity"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacaka",
+				"Package Control: List Packages"
+			],
+			[
+				"dic",
+				"Package Control: Disable Package"
+			],
+			[
+				"package rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"syn ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"require	",
+				"Snippet: require"
+			],
+			[
+				"pa in",
+				"Package Control: Install Package"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pandocx",
+				"Pandoc: Convert a Pandoc file to DocX"
+			],
+			[
+				"pandoc",
+				"Pandoc: Convert a Pandoc file to PDF"
+			],
+			[
+				"pando",
+				"Set Syntax: Pandoc"
+			],
+			[
+				"set syntax pa",
+				"Set Syntax: Pandoc"
+			],
+			[
+				"pan",
+				"Pandoc: Convert a Pandoc file to PDF"
+			],
+			[
+				"panhtm",
+				"Pandoc: Convert a Pandoc file to HTML"
+			],
+			[
+				"panhtml",
+				"Pandoc: Convert a Pandoc file to HTML"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"ju",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"toggle focu",
+				"LaTeXTools: Toggle focus (PDF/editor)"
+			],
+			[
+				"latextool",
+				"LaTeXTools: Toggle focus (PDF/editor)"
+			],
+			[
+				"panpdf",
+				"Pandoc: Convert a Pandoc file to PDF"
+			],
+			[
+				"syn mak",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syn late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markbro",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"syn lat",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"syn ru	",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syn C",
+				"Set Syntax: C#"
+			],
+			[
+				"syn rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"synxl",
+				"Set Syntax: LaTeX Log"
+			],
+			[
+				"syxml",
+				"Set Syntax: XML"
+			],
+			[
+				"syxm",
+				"Set Syntax: XML"
+			],
+			[
+				" syn xml",
+				"Set Syntax: XML"
+			],
+			[
+				"syn c",
+				"Set Syntax: C#"
+			],
+			[
+				"syn pa",
+				"Set Syntax: Pandoc"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 414.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/proyects/violent-python"
+	],
+	"file_history":
+	[
+		"/D/proyects/tesis/paper/latex/ITESMtesis.sty",
+		"/D/proyects/tesis/paper/latex/paper.tex",
+		"/D/proyects/tesis/paper/latex/marco_teorico/requirements.tex",
+		"/D/proyects/tesis/paper/latex/marco_teorico/propuesta.tex",
+		"/D/proyects/tesis/paper/latex/introduccion/objetivo.tex",
+		"/D/proyects/tesis/paper/latex/introduccion/planteamiento.tex",
+		"/D/proyects/tesis/paper/latex/introduccion/justificacion.tex",
+		"/D/proyects/tesis/paper/latex/conclusion/conclusion.tex",
+		"/D/proyects/tesis/paper/latex/marco_teorico/paradigma_oo.tex",
+		"/D/proyects/tesis/paper/latex/introduccion/hipotesis.tex",
+		"/D/proyects/tesis/ejercicios/dsl/calificador.rb",
+		"/D/proyects/tesis/ejercicios/descripcion.md",
+		"/D/proyects/tesis/paper/latex/desarrollo/implementacion_dsl.tex",
+		"/D/proyects/tesis/paper/latex/desarrollo/eleccion_analizador.tex",
+		"/C/Users/Marcel/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/proyects/curriculum/curriculum.tex",
+		"/D/cygwin/home/marcel/proyects/ruby/rubykron/README.md",
+		"/D/proyects/tesis/paper/latex/desarrollo/resultados.tex",
+		"/C/Users/Marcel/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/proyects/tesis/ejercicios/java/ejercicio22/CPU.java",
+		"/C/Users/Marcel/Desktop/Single-Display.rdp",
+		"/C/Users/Marcel/Desktop/Two-Displays.rdp",
+		"/C/Users/Marcel/AppData/Local/Growl/2.0.0.0/user.config",
+		"/C/Users/Marcel/AppData/Roaming/Skype/live#3anataly84_09/httpfe/cookies.dat",
+		"/C/Users/Marcel/AppData/Roaming/Skype/shared.xml",
+		"/D/proyects/tesis/paper/latex/marco_teorico/dsl.tex",
+		"/D/proyects/tesis/paper/latex/introduccion/agradecimientos.tex",
+		"/C/Program Files (x86)/Holdem Indicator/affi.ini",
+		"/C/Program Files (x86)/Holdem Indicator/script/fw.vbs",
+		"/C/Users/Marcel/AppData/Roaming/Skype/dns.ldb",
+		"/C/Users/Marcel/AppData/Roaming/Skype/live#3anataly84_09/config.xml",
+		"/C/Users/Marcel/AppData/Roaming/Skype/para.fernalia1/chatsync/ef/efe5fe37efc6d4de.dat",
+		"/D/temp/dload6.sh",
+		"/D/proyects/tesis/ejercicios/java/ejercicio24/ControlOrdenador.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio23/IbuyPowa.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio20/Procesadores.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio20/DiscoDuro.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio19/Motherboard.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio18/Laptop.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio18/PC.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio17/IbuyPowa.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio12/Articles/Laptop.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio12/Articles/Netbook.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio13/Computer.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio15/Computer.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio16/Computer.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio14/EscritorioPC.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio14/Laptop.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio12/Components/Screen.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio12/Articles/Pc.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio11/IBuyPowa.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio10/Computer.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio8/Laptop.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio9/Pc.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio9/Laptop.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio7/Producto.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio7/RAM.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio7/CPU.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio7/Netbook.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio7/IComputer.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio7/DiscoDuro.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio7/PC.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio7/Mouse.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio7/Motherboard.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio7/Monitor.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio7/Teclado.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio7/Laptop.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio6/Tienda.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio6/Desktop.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio6/iBuyPowa.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio6/Netbook.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio6/Laptop.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio4/Netbook.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio4/CPU.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio4/Monitor.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio4/Teclado.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio4/Laptop.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio4/PC.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio4/IBuyPowa.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio4/Mouse.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio4/HardDrive.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio4/RAM.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio4/Motherboard.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio5/IBuyPowa.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio3/Tienda.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio2/Computadora.java",
+		"/D/proyects/tesis/ejercicios/java/ejercicio1/Computadora.java",
+		"/D/proyects/tesis/ejercicios/java/Computadora (1).java",
+		"/D/proyects/tesis/ejercicios/java/iBuyPowa (1).java",
+		"/D/documents/Dropbox/jobs_stuff/career_tips/steps_to_successful_progress.txt",
+		"/D/proyects/tesis/paper/latex/desarrollo/code/BNF_dsl.txt",
+		"/C/Users/Marcel/AppData/Roaming/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/Marcel/AppData/Roaming/Sublime Text 2/Packages/LaTeXTools/README.markdown",
+		"/D/proyects/tesis/paper/latex/marco_teorico/requirements.synctex.gz(busy)",
+		"/D/proyects/tesis/paper/latex/paper.bib",
+		"/D/proyects/tesis/paper/latex/desarrollo/code/ndepend.cs",
+		"/D/proyects/tesis/paper/latex/desarrollo/code/nitriq.cs",
+		"/D/home/marcel/proyects/tesis/paper/latex/desarrollo/eleccion_analizador.tex",
+		"/D/home/marcel/proyects/tesis/paper/latex/marco_teorico/propuesta.tex",
+		"/D/home/marcel/proyects/tesis/paper/latex/marco_teorico/requirements.tex",
+		"/D/home/marcel/proyects/tesis/paper/latex/marco_teorico/paradigma_oo.tex",
+		"/D/proyects/tesis/src/RulesEngine/Query/Search/CalledByClassQuery.cs",
+		"/D/proyects/tesis/src/RulesEngine/Query/Search/ISearchQuery.cs",
+		"/D/proyects/tesis/src/RulesEngine/Query/Search/ImplementsInterfaceQuery.cs",
+		"/D/proyects/tesis/src/RulesEngine/Query/QueryFactory.cs",
+		"/D/documents/Dropbox/clases/fundamentos_de_la_computacion/cheatsheet/cheat.tex",
+		"/D/documents/Dropbox/clases/fundamentos_de_la_computacion/tarea_9/latex/tarea_9.tex",
+		"/C/temp/run.sh",
+		"/C/Users/Marcel/AppData/Roaming/Sublime Text 2/Packages/User/LaTeXTools Preferences.sublime-settings",
+		"/D/proyects/tesis/paper/latex/paper.bst",
+		"/D/proyects/tesis/paper/latex/paper.bbl",
+		"/C/Users/Marcel/AppData/Roaming/SumatraPDF/SumatraPDF-settings.txt",
+		"/C/Users/Marcel/AppData/Roaming/Sublime Text 2/Packages/LaTeXTools/LaTeXTools Preferences.sublime-settings",
+		"/C/Users/Marcel/Downloads/soundmanagerv297a-20131201/soundmanagerv297a-20131201/demo/mp3-player-button/basic.html",
+		"/C/Users/Marcel/Downloads/soundmanagerv297a-20131201/soundmanagerv297a-20131201/demo/page-player/basic.html",
+		"/D/documents/Dropbox/Public/nathaly_english/self_study.m3u",
+		"/D/documents/Dropbox/Public/nathaly_english/workbook.m3u",
+		"/C/temp/asd.m3u",
+		"/D/documents/Dropbox/Public/nathaly_english/-.m3u",
+		"/D/documents/Dropbox/Public/nathaly_english/index.html",
+		"/D/documents/Dropbox/Public/nathaly_english/cd_self_study.html",
+		"/D/documents/Dropbox/Public/nathaly_english/cd_workbook.html",
+		"/D/documents/Dropbox/entrepeneur/ideas_de_negocio/media_to_webpage.txt",
+		"/D/documents/Dropbox/entrepeneur/ideas_de_negocio/wiki_books_con_ads - Copy.txt",
+		"/C/Users/Marcel/Downloads/lame-3.99.5.tar/lame-3.99.5/lame-3.99.5/LICENSE",
+		"/G/My CD/audio_tracks.ps",
+		"/D/proyects/tesis/paper/latex/introduccion/metodologia.tex",
+		"/D/proyects/tesis/paper/latex/introduccion/plan_de_la_obra.tex"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"<project files>, *.tex",
+			"<project files>, *.text",
+			"<project files>",
+			"D:\\programs\\ClockworkMod\\Tether\\node-tuntap",
+			"D:\\programs\\ClockworkMod\\node-tuntap",
+			"D:\\programs\\ClockworkMod\\node-tuntap\\",
+			"D:\\proyects\\tesis\\paper\\",
+			"D:\\proyects\\tesis\\paper\\**\\*.tex",
+			"D:\\proyects\\tesis\\paper",
+			"D:\\proyects\\tesis\\src",
+			"D:\\proyects\\tesis\\paper\\latex",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"deleteNodeAtPath",
+			"fullCutPath",
+			"cutPath",
+			"tesiscampus",
+			"Diciembre",
+			"distinta cada vez",
+			"para definir criterios de valoración",
+			"para definir criterios de valoración  ",
+			"está investigación",
+			"para.fern",
+			",",
+			"  ",
+			"introducir defectos",
+			"clase que el agente",
+			" clase que el agente\ndelegando las ",
+			" clase que el agente\nestaba delegando las operacion",
+			"nature",
+			"Hero.new",
+			"Hero",
+			"Crawling",
+			"Hero.new",
+			"Hero",
+			"}",
+			"{",
+			"earth",
+			"earth shaker",
+			"\"",
+			"wraith",
+			"}\n{ ",
+			"{ hero",
+			"]}",
+			"\"\"",
+			"hero",
+			"{:hero",
+			"recordar",
+			"comportamiento",
+			"desea cambiar",
+			"que sea ileg",
+			"todas",
+			"textit",
+			"por su apoyo",
+			"para.",
+			"para.fernalia",
+			"?",
+			"href",
+			"?",
+			"href",
+			"?",
+			"href",
+			"videos/​AMG-220/​1080p/​AMG-220d_1080p.avi",
+			"/​AMG",
+			"/​1080",
+			"9/​1",
+			"http:/",
+			"/",
+			"href",
+			"/​720",
+			"http:/",
+			"​AMG",
+			"/",
+			"\"",
+			";",
+			"http",
+			"avi",
+			";;",
+			"href",
+			"<a href=",
+			"?",
+			"listado:ejercicio",
+			"table:resultados_ejercicios",
+			"A mi mismo",
+			"dedicator",
+			"vita",
+			"representan las espe",
+			"se compone de los paquetes",
+			"conformidad con reglas",
+			"ependencias entre componentes",
+			"ependencias entre components",
+			"dependencias entre components",
+			"Arquitectura de la herramienta",
+			"Requerimiento \\ref",
+			"Ajustar propiedades",
+			"Características de los elementos",
+			"-u",
+			"&&",
+			"-u",
+			"#       ",
+			"modified",
+			"deleted",
+			"95",
+			"listado:heuristicas",
+			"lst:heuristicas",
+			"\\item",
+			"+",
+			"enumerate",
+			"enumeration",
+			"- ",
+			"-",
+			"*\\cc",
+			"\\cc",
+			"á",
+			"\\\\cc",
+			"\\cc",
+			"í",
+			"ó",
+			"á",
+			"lst",
+			"tabla",
+			"table",
+			"&  & ",
+			" ",
+			" 0",
+			" ",
+			"0 0 0",
+			"resultados",
+			"tabular",
+			"Article",
+			"Producto",
+			"Product",
+			"Componentes",
+			"Mouse",
+			"DiscoDuros",
+			"getDiscoDuros",
+			"HardDrive",
+			"Processor",
+			"Keyboard",
+			"keyboard",
+			"Keyboard"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"DiscoDuro",
+			"CPU",
+			"Teclado",
+			"Teclado\n\nTeclado\nTeclado\nTeclado",
+			"",
+			"plantilla_req",
+			"\\microsoft ",
+			"\\microsoft",
+			"intermedio",
+			"\\microsoft",
+			"requirement",
+			"",
+			"aprendizaje electrónico",
+			"../paper.tex",
+			"../paper.text",
+			"la reutilización\n",
+			"Reutilización\n",
+			"reutilización\n",
+			"reutilizar\n",
+			"Reutilizable\n",
+			"reutilizable\n",
+			" \n",
+			"viaja",
+			"viajan",
+			"viajar",
+			"' Or '$(Configuration)",
+			"' || '$(Configuration)",
+			"$(Configuration)|$(Platform)' == 'Release|AnyCPU' || $(Configuration)|$(Platform)' == 'Deploy|AnyCPU'",
+			"$(Configuration)|$(Platform)' == 'Release|x86' || $(Configuration)|$(Platform)' == 'Deploy|x86'",
+			"IronRuby_1.1",
+			"double",
+			"sitio",
+			"en orden",
+			"precede",
+			"precede ",
+			"diente, la",
+			"ERG por medio del",
+			"encontrar",
+			"lectura",
+			"",
+			"l"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 220.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "proyect.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".sty",
+				"ITESMtesis.sty"
+			],
+			[
+				"resultados",
+				"desarrollo/resultados.tex"
+			],
+			[
+				"agr",
+				"introduccion/agradecimientos.tex"
+			],
+			[
+				"conc",
+				"conclusion/conclusion.tex"
+			],
+			[
+				"hipo",
+				"introduccion/hipotesis.tex"
+			],
+			[
+				"propues",
+				"marco_teorico/propuesta.tex"
+			],
+			[
+				"elecc",
+				"desarrollo/eleccion_analizador.tex"
+			],
+			[
+				"syn",
+				"marco_teorico/requirements.synctex.gz(busy)"
+			],
+			[
+				"paper.tex",
+				"paper.tex"
+			],
+			[
+				"bn",
+				"desarrollo/code/BNF_dsl.txt"
+			],
+			[
+				".tex",
+				"desarrollo/implementacion_dsl.tex"
+			],
+			[
+				"paradi",
+				"marco_teorico/paradigma_oo.tex"
+			],
+			[
+				"dsl.tex",
+				"marco_teorico/dsl.tex"
+			],
+			[
+				"req",
+				"marco_teorico/requirements.tex"
+			],
+			[
+				"propu",
+				"marco_teorico/propuesta.tex"
+			],
+			[
+				"nitriq",
+				"desarrollo/code/nitriq.cs"
+			],
+			[
+				"d",
+				"marco_teorico/dsl.tex"
+			],
+			[
+				"reque",
+				"marco_teorico/requirements.tex"
+			],
+			[
+				"paper.",
+				"paper.bbl"
+			],
+			[
+				".bib",
+				"paper.bib"
+			],
+			[
+				"index",
+				"/D/documents/Dropbox/Public/nathaly_english/index.html"
+			],
+			[
+				"dsl",
+				"marco_teorico/dsl.tex"
+			],
+			[
+				"requ",
+				"marco_teorico/requirements.tex"
+			],
+			[
+				"obje",
+				"introduccion/objetivo.tex"
+			],
+			[
+				"obj",
+				"introduccion/objetivo.tex"
+			],
+			[
+				"plantea",
+				"introduccion/planteamiento.tex"
+			],
+			[
+				"justifi",
+				"introduccion/justificacion.tex"
+			],
+			[
+				"paper",
+				"paper.tex"
+			],
+			[
+				"propuesta.tex",
+				"marco_teorico/propuesta.tex"
+			],
+			[
+				"propuesta",
+				"marco_teorico/propuesta.tex"
+			],
+			[
+				"plan",
+				"introduccion/plan_de_la_obra.tex"
+			],
+			[
+				"defini",
+				"marco_teorico/definicion_metodo.java"
+			],
+			[
+				"marco",
+				"marco_teorico/paradigma_oo.tex"
+			],
+			[
+				"taskentry",
+				"appian-api/src/main/java/com/appiancorp/abdera/TaskEntryAdapter.java"
+			],
+			[
+				"tempouris",
+				"ae/src/com/appiancorp/tempo/common/TempoUris.java"
+			],
+			[
+				"feedentrysupp",
+				"appian-api/src/main/java/com/appiancorp/abdera/FeedEntrySupplier.java"
+			],
+			[
+				"relatedactionsfee",
+				"appian-api/src/main/java/com/appiancorp/rest/record/abdera/RelatedActionsFeedSupplier.java"
+			],
+			[
+				"tempoent",
+				"appian-api/src/main/java/com/appiancorp/tempo/abdera/TempoEntryAdapter.java"
+			],
+			[
+				"taskfeedsou",
+				"ae/src/com/appiancorp/tempo/tasks/TaskFeedSource.java"
+			],
+			[
+				"rdbmsfeeds",
+				"ae/src/com/appiancorp/tempo/rdbms/RdbmsFeedSource.java"
+			],
+			[
+				".gwt.xml",
+				"src/com/google/gwt/sample/stockwatcher/StockWatcher.gwt.xml"
+			],
+			[
+				"helloworld.gw",
+				"src/org/marcel/helloworld/HelloWorld.gwt.xml"
+			],
+			[
+				"hellowidget",
+				"src/org/marcel/helloworld/client/HelloWorldWidget.java"
+			],
+			[
+				"tablay",
+				"src/org/marcel/helloworld/client/TabLayoutWidget.java"
+			],
+			[
+				"tabla",
+				"src/org/marcel/helloworld/client/TabLayoutWidget.ui.xml"
+			],
+			[
+				"hello.gwt",
+				"src/org/marcel/helloworld/HelloWorld.gwt.xml"
+			],
+			[
+				"hello.xml",
+				"src/org/marcel/helloworld/HelloWorld.gwt.xml"
+			],
+			[
+				".css",
+				"src/org/marcel/helloworld/client/helloworld_style.css"
+			],
+			[
+				"build.xml",
+				"build.xml"
+			],
+			[
+				"lay",
+				"src/org/marcel/helloworld/client/BindedLayoutWidget.ui.xml"
+			],
+			[
+				"bu",
+				"build.xml"
+			],
+			[
+				"resou",
+				"src/org/marcel/helloworld/client/Resources.java"
+			],
+			[
+				"aja",
+				"src/org/marcel/helloworld/client/AjaxWidget.java"
+			],
+			[
+				"ajax",
+				"src/org/marcel/helloworld/client/AjaxWidget.java"
+			],
+			[
+				"binded",
+				"src/org/marcel/helloworld/client/BindedLayoutWidget.java"
+			],
+			[
+				"bindedla",
+				"src/org/marcel/helloworld/client/BindedLayoutWidget"
+			],
+			[
+				"ui.xml",
+				"src/org/marcel/helloworld/client/HelloWorldWidget.ui.xml"
+			],
+			[
+				".java",
+				"src/org/marcel/helloworld/client/HelloWorldWidget.java"
+			],
+			[
+				"h",
+				"src/org/marcel/helloworld/HelloWorldWidget.ui.xml"
+			],
+			[
+				"hell",
+				"src/org/marcel/helloworld/HelloWorld.java"
+			],
+			[
+				".html",
+				"war/StockWatcher.html"
+			],
+			[
+				"s.css",
+				"war/StockWatcher.css"
+			],
+			[
+				".gwt",
+				"src/com/google/gwt/sample/stockwatcher/StockWatcher.gwt.xml"
+			],
+			[
+				"gree",
+				"src/com/google/gwt/sample/stockwatcher/server/GreetingServiceImpl.java"
+			],
+			[
+				"greeting",
+				"src/com/google/gwt/sample/stockwatcher/client/GreetingService.java"
+			],
+			[
+				"stockwat.java",
+				"src/com/google/gwt/sample/stockwatcher/client/StockWatcher.java"
+			],
+			[
+				"stockw.css",
+				"war/StockWatcher.css"
+			],
+			[
+				"sotckw",
+				"src/com/google/gwt/sample/stockwatcher/StockWatcher.gwt.xml"
+			],
+			[
+				"sto",
+				"StockWatcher.launch"
+			],
+			[
+				".project",
+				".project"
+			],
+			[
+				"bui.",
+				"build.xml"
+			],
+			[
+				"mywebapp.java",
+				"src/com/mycompany/mywebapp/client/MyWebApp.java"
+			],
+			[
+				"server",
+				"collab_investigation/http_server.js"
+			],
+			[
+				".gi",
+				"numeros_letras/.gitignore"
+			],
+			[
+				"lear",
+				"learn_js_mvc_no_backbone.js"
+			],
+			[
+				"learn",
+				"learn_js_mvc_backbone.js"
+			],
+			[
+				"adb.js",
+				"node-tuntap/adb.js"
+			],
+			[
+				"redef",
+				"marco_teorico/redefinir_metodo.java"
+			],
+			[
+				"build.bat",
+				"tesis/paper/build.bat"
+			],
+			[
+				"latex/build",
+				"tesis/paper/latex/build.bat"
+			],
+			[
+				"",
+				"learn_backbone/learn_js_mvc_no_backbone.html"
+			],
+			[
+				"index.js",
+				"learn_backbone/learn_js_mvc/no_backbone_mvc/index.js"
+			],
+			[
+				"index.html",
+				"learn_backbone/learn_js_mvc/no_backbone_mvc/index.html"
+			],
+			[
+				"c",
+				"/D/proyects/ToolsProyects/CodeGeneration/CArrayGenerator.cs"
+			],
+			[
+				"super",
+				"/C/Users/Marcel/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
